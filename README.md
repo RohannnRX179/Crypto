@@ -1,3 +1,9 @@
+![image](https://github.com/RohannnRX179/Crypto/assets/120187364/f9939ae4-869d-4d06-be0e-f01c6176507d)
+
+![image](https://github.com/RohannnRX179/Crypto/assets/120187364/15e96c5f-e061-4e40-ae4a-ebe60f917271)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
